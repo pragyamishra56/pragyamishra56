@@ -12,7 +12,14 @@
 
 - 📫 How to reach me **mi.pragya16595@gmail.com**
 
+- **Here's My Blog**  <p align="left">
+  <a href="https://hashnode.com/@pragyadev" target="blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619605440273/S3_X4Rf7V.jpeg" alt="Hashnode" style="width:50px; height:50px auto;" />
+  </a>
+</p>
+
 - ⚡ Fun fact **Watch Anime**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

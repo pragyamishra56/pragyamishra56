@@ -18,7 +18,7 @@
   </a>
 </p>
 
-- ⚡ Fun fact **Watch Anime**
+- ⚡ Fun fact **Watching Anime**
 
 
 <h3 align="left">Connect with me:</h3>

@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pragya_twts)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pragya-mishra-070438279)
 
-### Glad to see you here! &nbsp;
+### ✨Glad to see you here!✨ &nbsp;
 ### Talking about Personal Stuff:
 
 - 🌱 I’m currently learning **Web development**

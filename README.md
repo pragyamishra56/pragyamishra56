@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pragya Mishra</h1>
+<h1 align="center">Hii 👋 Warm Welcome to my profile page 🤗 , I'm Pragya Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pragyamishra56&label=Profile%20views&color=0e75b6&style=flat" alt="pragyamishra56" /> </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pragya_twts)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pragya-mishra-070438279)
+<img align="right" alt="me" width="500" src="https://github.com/pragyamishra56/pragyamishra56/assets/115208912/67346180-2523-47b4-9b0d-6327a8be4e1b">
 
 ### ✨Glad to see you here!✨ &nbsp;
+
 ### Talking about Personal Stuff:
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **Frontend,Git**
+- 💬 Ask me about **Frontend Development and Git**
 
-- 📫 How to reach me **mi.pragya16595@gmail.com**
+- 📫 Feel free to email me at mi.pragya16595@gmail.com if you want to collabrate with me**
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
-- **Here's My Blog**  <p align="left">
+- **You can find my thoughts on my blog**  <p align="left">
   <a href="https://hashnode.com/@pragyadev" target="blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619605440273/S3_X4Rf7V.jpeg" alt="Hashnode" style="width:50px; height:50px auto;" />
 

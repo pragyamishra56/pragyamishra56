@@ -5,15 +5,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pragya_twts)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pragya-mishra-070438279)
 
-### Talking about Personal Stuff:
-<img align="right" alt="me" width="500" src="https://github.com/pragyamishra56/pragyamishra56/assets/115208912/67346180-2523-47b4-9b0d-6327a8be4e1b">
 
+<img align="right" alt="me" width="300" height="400" src="https://github.com/pragyamishra56/pragyamishra56/assets/115208912/67346180-2523-47b4-9b0d-6327a8be4e1b">
+
+### Talking about Personal Stuff:
 
 - 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **Frontend Development and Git**
 
-- 📫 Feel free to email me at mi.pragya16595@gmail.com if you want to collabrate with me**
+- 📫 Feel free to email me at mi.pragya16595@gmail.com if you want to collabrate with me
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
 - **You can find my thoughts on my blog**  <p align="left">
@@ -62,8 +63,6 @@
 	    <li><b>To Stay Updated:</b> Twitter and LinkedIn</li>
 	</ul>
 </details>
-
-#
 
 <div align="center">
 

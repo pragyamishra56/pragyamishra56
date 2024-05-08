@@ -1,6 +1,6 @@
-<h1 align="center">Namaskaram 🙏, I'm Pragya Mishra ✨Glad to see you here!✨ &nbsp</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Namaskaram 🙏, I'm Pragya Mishra</h1>
+<h3 align="center">A passionate frontend developer from India🎯</h3>
+<h3 align="center">✨Glad to see you here!✨</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pragya_twts)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pragya-mishra-070438279)

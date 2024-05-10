@@ -10,7 +10,7 @@
 
 ### Talking about Personal Stuff:
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Frontend Development and Git**
 

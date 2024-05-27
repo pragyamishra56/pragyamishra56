@@ -11,13 +11,13 @@
 ### Talking about Personal Stuff:
 
 - 🌱 I’m currently learning **DevOps**
+- 🎯 I'm currently working on **Networking**
+- 💬 Ask me about **Frontend Development**
 
-- 💬 Ask me about **Frontend Development and Git**
-
-- 📫 Feel free to email me at mi.pragya16595@gmail.com if you want to collabrate with me
+- 📫 Find me at mi.pragya16595@gmail.com
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
-- **You can find my thoughts on my blog**  <p align="left">
+- **You can find my blog here**  <p align="left">
   <a href="https://hashnode.com/@pragyadev" target="blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619605440273/S3_X4Rf7V.jpeg" alt="Hashnode" style="width:50px; height:50px auto;" />
 

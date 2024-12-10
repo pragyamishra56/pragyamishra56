@@ -10,7 +10,6 @@
 
 ### Talking about Personal Stuff:
 
-- 🌱 I’m currently learning **DevOps**
 - 🎯 I'm currently working on **Networking**
 - 💬 Ask me about **Frontend Development**
 

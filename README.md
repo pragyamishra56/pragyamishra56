@@ -13,7 +13,7 @@
 - 🎯 I'm currently working on **Networking**
 - 💬 Ask me about **Frontend Development**
 
-- 📫 Find me at mi.pragya16595@gmail.com
+- 📫 Find me at pragya.mi799@gmail.com
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
 - **You can find my blog here**  <p align="left">
